@@ -1,0 +1,82 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    border: 5px dashed red;
+    color: red;
+    background-color: black;
+}
+
+img {
+    width: 100%;
+    height: 100px;
+}
+
+a:visited {
+    color: red;
+}
+
+.wrapping {
+    display: flex;
+}
+
+.col1 {
+    border: 5px double red;
+    padding: 20px;
+    background-color: black;
+    color: darkred;
+    width: 150px;
+    margin: 5px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: darkred;
+    background-color: black;
+}
+
+.umbrella {
+    width: 150px;
+    height: 190px;
+}
+
+body {
+    background-color: black;
+}
+
+.col2 {
+    border: 5px double darkred;
+    width: 350px;
+    margin: 5px;
+    color: red;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.head2 {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+.col3 {
+    border: 5px double red;
+    padding: 20px;
+    background-color: black;
+    color: darkred;
+    width: 150px;
+    margin: 5px;
+}
+
+.video {
+    border: 5px solid red;
+}
+
+.cringe {
+    width: 150px;
+    height: 200px;
+}
+
+.thumb {
+    height: 190px;
+    border: 5px darkred solid;
+}
